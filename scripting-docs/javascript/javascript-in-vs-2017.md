@@ -1,3 +1,37 @@
+---
+title: "JavaScript in Visual Studio 2017 | Microsoft Docs"
+ms.custom: ""
+ms.date: "3/01/2017"
+ms.reviewer: "wilkelly"
+ms.suite: ""
+ms.technology: 
+  - "devlang-javascript"
+ms.tgt_pltfrm: ""
+ms.topic: "article"
+ms.assetid: f3eee13e-30e4-4bc1-81f5-058d7e379b75
+caps.latest.revision: 17
+author: "mikejo5000"
+ms.author: "mikejo"
+manager: "ghogen"
+translation.priority.ht: 
+  - "cs-cz"
+  - "de-de"
+  - "es-es"
+  - "fr-fr"
+  - "it-it"
+  - "ja-jp"
+  - "ko-kr"
+  - "pl-pl"
+  - "pt-br"
+  - "ru-ru"
+  - "tr-tr"
+  - "zh-cn"
+  - "zh-tw"
+---
+# JavaScript in Visual Studio
+
+[!include[vs_dev15](../../docs/misc/includes/vs_dev15_md.md)] provides a powerful JavaScript editing experience right out of the box. Powered by a TypeScript based language service, Visual Studio delivers richer [JavaScript IntelliSense](../../docs/ide/javascript-intellisense.md), support for modern JavaScript features, and improved productivity features such as Go to Definition, refactoring, and more.
+
 ## <a name="ES6"></a> Support for ECMAScript 2015 (ES6) and beyond
 Visual Studio now supports syntax for ECMAScript language updates such as ECMAScript 2015/2016.
 
